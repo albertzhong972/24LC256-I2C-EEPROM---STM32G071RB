@@ -1,0 +1,3 @@
+uart.c:10:6:UART_Config	8	static
+uart.c:34:6:UART_SendString	16	static
+uart.c:44:6:UART_SendChar	16	static

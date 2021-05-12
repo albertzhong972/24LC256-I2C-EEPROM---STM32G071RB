@@ -1,0 +1,5 @@
+main.c:33:6:GPIO_Config	8	static
+main.c:39:6:I2C1_Config	8	static
+main.c:58:6:I2C1_WriteString	24	static
+main.c:85:6:I2C1_ReadString	32	static
+main.c:118:5:main	24	static
